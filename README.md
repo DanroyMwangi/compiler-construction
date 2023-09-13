@@ -1,5 +1,15 @@
 # compiler-construction
 
+## Group Members
+
+136789-Michael Muya
+132459-Natasha Gichuhi
+136509-Trevor Muthoka
+136290-Yahya Khalif
+136236-Cynthia Muiruri
+134979-Nelson Mwangi
+134948-Danroy Ndungu
+
 ## UBUNTU
 
 ### Install Flex
