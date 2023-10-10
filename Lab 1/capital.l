@@ -5,7 +5,7 @@ LAB ASSIGNMENT 1: Design a simple script that takes an English sentence(s) (eith
 [a-zA-Z]+   { printf("%s\n", yytext); }
 [ \t]+      { /* To ignore any whitespaces */ }
 \n          { /* To ignore newlines */ }
-.           { /* To ignore other characters */ }
+.            { /* To ignore other characters */ }
 %%
  
 
