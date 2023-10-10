@@ -1,0 +1,14 @@
+# generate_input.py
+
+# List of sample identifiers
+identifiers = ["variable1", "_my_var", "123Invalid", "validIdentifier", "another_var", "mixed_case"]
+
+# Path to the output file
+output_file_path = "sample_input.txt"
+
+# Write the identifiers to the output file
+with open(output_file_path, "w") as output_file:
+    for identifier in identifiers:
+        output_file.write(identifier + "\n")
+
+print(f"Sample input written to {output_file_path}")
