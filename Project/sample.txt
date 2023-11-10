@@ -1,0 +1,11 @@
+bat_script = """
+[Scene: Gotham City Rooftop]
+[Character: Batman]
+[Character: Joker]
+[Action: Stands]
+[Character: Batman]
+Says \"I'm not wearing hockey pads.\"
+[Character: Joker]
+Says \"Why so serious?\"
+[Action: Laughs maniacally]
+"""
